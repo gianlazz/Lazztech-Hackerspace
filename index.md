@@ -1,4 +1,4 @@
-## Lazztech Founder
+## Lazztech™ Founder
 Gian Lazzarini
 ![Image](/Unknown.jpeg)
 
