@@ -1,6 +1,6 @@
 ## Lazztech Founder
 Gian Lazzarini
-
+![Image](/Unknown.jpeg)
 
 ## About the space
 ![Image](/Unknown-1.jpeg)
