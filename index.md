@@ -1,5 +1,5 @@
 ## About the space
-![Image](https://github.com/gianlazz/Lazztech-Hackerspace/blob/master/Unknown-1.jpeg)
+![Image](/Unknown-1.jpeg)
 
 # Tools & Machinery
 - Electrical Diagnostic
