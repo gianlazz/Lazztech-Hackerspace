@@ -1,7 +1,7 @@
 ## About the space
 ![Image](/Unknown-1.jpeg)
 
-# Tools & Machinery
+# Tools & Machinery Equipment
 - Electrical Diagnostic
   - Quad Channel Digital Oscilloscope
   - Benchtop Lab Power Supply
