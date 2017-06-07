@@ -1,3 +1,7 @@
+## About the space
+
+
+
 ## [Projects](https://github.com/gianlazz/Lazztech-Hackerspace/projects)
 
 ## Social Media:
