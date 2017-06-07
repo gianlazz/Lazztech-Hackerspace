@@ -1,3 +1,7 @@
+## Lazztech Founder
+Gian Lazzarini
+
+
 ## About the space
 ![Image](/Unknown-1.jpeg)
 
