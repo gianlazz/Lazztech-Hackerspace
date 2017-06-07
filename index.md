@@ -1,6 +1,21 @@
 ## About the space
 ![Image](https://github.com/gianlazz/Lazztech-Hackerspace/blob/master/Unknown-1.jpeg)
 
+# Tools & Machinery
+- Hand Tools
+  - Soldering Iron
+  - Wire Cutter Stripper
+  - Battery Powered Dremel
+
+- Digital Fabrication
+  - Modified Shapeoko 2 CNC Router
+  - Printrbot Play 3D Printer with OctoPi Server
+  
+- Computing
+  - Prosumer Server Grade Dual Xeon Processor(12 core combined 32 GB ram) video rendering pc
+  - 2011 MacBook Air dual core i7 8GB ram 500gb storage
+  - EEEPC 900HA Netbook Linux server computer
+
 ## [Projects](https://github.com/gianlazz/Lazztech-Hackerspace/projects)
 
 ## Social Media:
