@@ -2,7 +2,7 @@
 
 ## Social Media:
 
-## Resume
+## Resume:
 
 ## Welcome to GitHub Pages
 
