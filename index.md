@@ -1,6 +1,5 @@
 ## About the space
-
-
+![Image](https://github.com/gianlazz/Lazztech-Hackerspace/blob/master/Unknown-1.jpeg)
 
 ## [Projects](https://github.com/gianlazz/Lazztech-Hackerspace/projects)
 
