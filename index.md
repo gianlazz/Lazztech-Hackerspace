@@ -10,6 +10,7 @@
   - Soldering Iron
   - Wire Cutter Stripper
   - Battery Powered Dremel
+  - Etc.
 
 - Digital Fabrication
   - Modified Shapeoko 2 CNC Router
