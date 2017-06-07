@@ -2,6 +2,10 @@
 ![Image](https://github.com/gianlazz/Lazztech-Hackerspace/blob/master/Unknown-1.jpeg)
 
 # Tools & Machinery
+- Electrical Diagnostic
+  - Quad Channel Digital Oscilloscope
+  - Benchtop Lab Power Supply
+
 - Hand Tools
   - Soldering Iron
   - Wire Cutter Stripper
